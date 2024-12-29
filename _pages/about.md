@@ -35,14 +35,21 @@ Richard Feynman's principle, "What I cannot create, I do not understand," perfec
 
 These theoretical advances have enabled significant practical breakthroughs:
 
-- Enhanced model efficiency through targeted knowledge editing [(Meng et al., 2023)](link) [(Dai et al., 2022)](link)
-- Direct model control via activation engineering [(Turner et al., 2024)](link) [(Geiger et al., 2023)](link) [(Dabral et al., 2023)](link)
-- Advanced safety mechanisms through representation engineering [(Arditi et al., 2024)](link) [(Nanda et al., 2023)](link)
-- Performance optimization through targeted representation modifications [(Sharma et al., 2023)](link) [(Anthropic et al., 2024)](link)
-- More robust evaluation methodologies [(Geva et al., 2023)](link) [(Das et al., 2024)](link)
+- Enhanced model efficiency through targeted knowledge editing [(Meng et al., 2023)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6f1d43d5a82a37e89b0665b33bf3a182-Abstract-Conference.html) [(Dai et al., 2021)](https://arxiv.org/abs/2104.08696)
+- Enable direct model control through activation engineering and steering vectors, eliminating the need for traditional fine-tuning approaches [(Turner et al., 2024)](https://arxiv.org/abs/2308.10248) [(Hendel et al., 2023)](https://arxiv.org/abs/2310.15916) [(Ilharco et al., 2022)](https://arxiv.org/abs/2212.04089)
+- Implement stronger safety constraints by understanding how outputs can be steered and regulated [(Arditi et al., 2024)](https://arxiv.org/pdf/2406.11717) [(Bereska et al., 2024)](https://arxiv.org/abs/2404.14082)
+- Enhance model performance through targeted modifications of internal representations, as demonstrated by work on singular value decomposition and rank reductions [(Chen et al., 2024)](https://arxiv.org/abs/2305.19798) [(Sharma et al., 2023)](https://arxiv.org/abs/2312.13558)
+- Develop more robust evaluation methods by understanding how knowledge is stored and accessed [(Geva et al., 2020)](https://arxiv.org/abs/2012.14913) [(Dar et al., 2022)](https://arxiv.org/abs/2209.02535)
 
 ## 🎯 Research Focus
 
-My research explores the crucial intersection of knowledge representation and model behavior, building on work by [Dai et al. (2023)](link) and [Mitchell et al. (2023)](link). I investigate how language models encode and manipulate information, particularly in domain-specific learning contexts [(Zhang et al., 2023)](link). Through activation engineering and steering vector approaches [(Sharma et al., 2023)](link) [(Turner et al., 2024)](link), we're developing precise methods for model control and adaptation while preserving core capabilities.
+My research explores the crucial intersection of knowledge representation and model behavior. By combining activation engineering techniques with causal intervention methods, I investigate how models process and adapt domain-specific knowledge while maintaining their core capabilities. This work is particularly inspired by knowledge localization techniques ([Meng et al., 2023](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6f1d43d5a82a37e89b0665b33bf3a182-Abstract-Conference.html)), factual association tracking ([Geva et al., 2023](https://arxiv.org/abs/2304.14767)), and advances in model steering ([Arditi et al., 2024](https://arxiv.org/pdf/2406.11717)).
 
-The most compelling aspect of this work lies in its potential to transform theoretical insights into practical applications, advancing both our understanding and our ability to create more reliable, controllable AI systems.
+The most compelling aspect of this work is its potential to transform theoretical insights into practical applications, advancing both our understanding and our ability to create more reliable, controllable AI systems. Apart from the papers mentioned above, I draw significant inspiration from several groundbreaking works in the field, including:
+
+- ["A Mathematical Framework for Transformer Circuits"](https://transformer-circuits.pub/2021/framework/index.html) (Elhage et al., 2021)
+- ["Editing Factual Knowledge in Language Models"](https://arxiv.org/abs/2104.08164) (Cao et al., 2021)
+- ["Language Agents Meet Causality -- Bridging LLMs and Causal World Models"](https://arxiv.org/abs/2410.19923) (Gkountouras et al., 2024)
+- ["Talking Heads: Understanding Inter-layer Communication in Transformer Language Models"](https://arxiv.org/abs/2406.09519) (Merullo et al., 2024)
+- ["CoSy: Evaluating Textual Explanations of Neurons"](https://arxiv.org/pdf/2405.20331) (Kopf et al., 2024)
+- ["Mechanistic Interpretability for AI Safety -- A Review"](https://arxiv.org/abs/2404.14082) (Bereska et al., 2024)
