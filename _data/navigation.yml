@@ -6,8 +6,6 @@
 
 # main navigation links
 main:
-  - title: "Current Work"
-    url: /current-work/
   - title: "About Me"
     url: /about/
   - title: "Publications"
