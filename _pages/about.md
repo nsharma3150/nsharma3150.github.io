@@ -9,11 +9,11 @@ redirect_from:
 
 # 🔍 Current Research: Mechanistic Interpretability in LLMs
 
-As a master's thesis student at [Bethge Lab]([https://bethgelab.org/]), working under the guidance of [Prof. Matthias Bethge]([(https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/)]) and [Dr. Cagatay Yildiz]([https://cagatayyildiz.github.io/]), I'm delving deep into the fascinating world of large language models. My research focuses on developing novel approaches to quantify and track knowledge acquisition in these complex systems through mechanistic interpretability.
+As a master's thesis student at [Bethge Lab]([https://bethgelab.org/]), working under the guidance of [Prof. Matthias Bethge](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/) and [Dr. Cagatay Yildiz](https://cagatayyildiz.github.io/), I'm delving deep into the fascinating world of large language models. My research focuses on developing novel approaches to quantify and track knowledge acquisition in these complex systems through mechanistic interpretability.
 
 ## 🧪 Current Research Directions
 
-Our research extends [Geva et al.'s (2023)]([https://arxiv.org/abs/2304.14767]) foundational work on factual associations in auto-regressive models, developing more sophisticated measurement techniques. A critical insight emerged from [Öncel et al.'s (2024)](https://arxiv.org/abs/2410.05581) findings that traditional perplexity metrics can be deceptive.
+Our research extends [Geva et al.'s (2023)](https://arxiv.org/abs/2304.14767] foundational work on factual associations in auto-regressive models, developing more sophisticated measurement techniques. A critical insight emerged from [Öncel et al.'s (2024)](https://arxiv.org/abs/2410.05581) findings that traditional perplexity metrics can be deceptive.
 
 I'm currently advancing research along two primary axes:
 
