@@ -5,32 +5,62 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="/images/pred_mental_illness_thumb.jpg" alt="Predicting Mental Illness Paper Thumbnail">
+  </div>
+  <div class="publication-content">
+    <h2>Predicting Mental and Neurological Illnesses Based on Cerebellar Normative Features</h2>
+    <p><strong>Milin Kim</strong>, <strong>Nitin Sharma</strong>, Esten H Leonardsen, Saige Rutherford, Geir Selbæk, Karin Persson, et al.</p>
+    <p>medRxiv, 2024</p>
+    <p>Mental and neurological conditions have been linked to structural brain variations. However, aside from dementia, the value of brain structural characteristics derived from brain scans for prediction is relatively low...</p>
+  </div>
+</div>
 
-{% include base_path %}
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="/images/postop_delirium_thumb.jpg" alt="Postoperative Delirium Paper Thumbnail">
+  </div>
+  <div class="publication-content">
+    <h2>Predicting Postoperative Delirium in Older Patients: a multicenter retrospective cohort study</h2>
+    <p>Shun-Chin Jim Wu, <strong>Nitin Sharma</strong>, Anne Bauch, Hao-Chun Yang, Jasmine L Hect, et al.</p>
+    <p>medRxiv, 2024</p>
+    <p>The number of elective surgeries for older individuals is on the rise globally. Machine learning may improve risk assessment with an impact on surgical planning and postoperative care...</p>
+  </div>
+</div>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="/images/ketamine_dissociation_thumb.jpg" alt="Ketamine Dissociation Paper Thumbnail">
+  </div>
+  <div class="publication-content">
+    <h2>Ketamine-induced pleasant but not unpleasant dissociation is linked to the functional connectivity profile of the posteromedial cortex</h2>
+    <p>Zumrut Duygu Sen, <strong>Nitin Sharma</strong>, Lena Vera Danyeli, Lejla Colic, et al.</p>
+    <p>2024</p>
+    <p>Along with its rapid therapeutic benefits, ketamine induces transient experience of dissociation during administration...</p>
+  </div>
+</div>
 
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="/images/ketamine_ego_thumb.jpg" alt="Ketamine Ego Dissolution Paper Thumbnail">
+  </div>
+  <div class="publication-content">
+    <h2>Ketamine-induced ego dissolution is related to the functional connectivity reconfiguration of the posteromedial cortex</h2>
+    <p>Meng Li, <strong>Nitin Sharma</strong>, Lena Danyeli, Lejla Colic, et al.</p>
+    <p>Biological Psychiatry, 2023</p>
+    <p>A single dose of intravenous ketamine improves the severity of symptoms in disorders such as depression while also introducing acute and transient ego dissolution during administration...</p>
+  </div>
+</div>
 
-
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="/images/epileptic_seizure_thumb.jpg" alt="Epileptic Seizure Detection Paper Thumbnail">
+  </div>
+  <div class="publication-content">
+    <h2>Epileptic seizure detection using STFT based peak mean feature and support vector machine</h2>
+    <p><strong>Nitin Sharma</strong>, G Gaurav, RS Anand</p>
+    <p>2021 8th International Conference on Signal Processing and Integrated Networks (SPIN)</p>
+    <p>Epilepsy is a neurological condition of intermittent brain dysfunction arising from irregular neuronal discharge through the brain...</p>
+  </div>
+</div>
