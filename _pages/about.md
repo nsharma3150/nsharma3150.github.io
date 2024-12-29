@@ -13,7 +13,7 @@ redirect_from:
 
 # 🔍 Current Research: Mechanistic Interpretability in LLMs
 
-As a master's thesis student at [Bethge Lab](https://bethgelab.org/), working under the guidance of [Prof. Matthias Bethge](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/) and [Dr. Cagatay Yildiz](https://cagatayyildiz.github.io/), I'm delving deep into the fascinating world of large language models. My research focuses on developing novel approaches to quantify and track knowledge acquisition in these complex systems through mechanistic interpretability.
+I am a 2nd-year master's student, currently pursuing my thesis under [Prof. Matthias Bethge](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/) and [Dr. Cagatay Yildiz](https://cagatayyildiz.github.io/) at the [Bethge Lab](https://bethgelab.org/). In my research, I am delving deep into the fascinating world of large language models. My research focuses on developing novel approaches to quantify and track knowledge acquisition in these complex systems through mechanistic interpretability.
 
 ## 🧪 Current Research Directions
 
