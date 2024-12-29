@@ -69,3 +69,34 @@
 .publication-content p {
   margin: 0.5em 0;
 }
+
+// Title and Heading Styles
+.page__title {
+    font-size: 1.8em;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    color: $dark-gray;  // Uses theme color variable
+}
+
+h1 {
+    font-size: 2.2em;
+    color: $dark-gray;
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+}
+
+// Announcement Box Styles
+.announcement-box {
+    background-color: #f0f7ff;
+    border-left: 4px solid #0366d6;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    
+    p {
+        color: #1a73e8;
+        font-size: 1.1em;
+        margin: 0;
+        line-height: 1.5;
+    }
+}
