@@ -13,7 +13,7 @@ As a master's thesis student at [Bethge Lab]([https://bethgelab.org/]), working 
 
 ## 🧪 Current Research Directions
 
-Our research extends [Geva et al.'s (2023)](https://arxiv.org/abs/2304.14767] foundational work on factual associations in auto-regressive models, developing more sophisticated measurement techniques. A critical insight emerged from [Öncel et al.'s (2024)](https://arxiv.org/abs/2410.05581) findings that traditional perplexity metrics can be deceptive.
+Our research extends [Geva et al.'s (2023)](https://arxiv.org/abs/2304.14767) foundational work on factual associations in auto-regressive models, developing more sophisticated measurement techniques. A critical insight emerged from [Öncel et al.'s (2024)](https://arxiv.org/abs/2410.05581) findings that traditional perplexity metrics can be deceptive.
 
 I'm currently advancing research along two primary axes:
 
