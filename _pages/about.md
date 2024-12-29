@@ -29,7 +29,7 @@ A key innovation in our approach is the application of activation engineering th
 
 ## 💡 Why Mechanistic Interpretability?
 
-Richard Feynman's principle, "What I cannot create, I do not understand," perfectly encapsulates the mission of mechanistic interpretability. The field has achieved remarkable breakthroughs in demystifying neural networks, from [Elhage et al.'s (2021)](https://transformer-circuits.pub/2021/framework/index.html) mathematical frameworks for transformer circuits to [Elhage et al.'s (2022)](https://transformer-circuits.pub/2022/toy_model/index.html) understanding of superposition phenomena. Recent advances in automated circuit discovery [(Conmy et al., 2023)](https://arxiv.org/abs/2304.14997) and interpretable circuits in GPT-2 [(Chan et al., 2023)](https://arxiv.org/abs/2211.00593) demonstrate that systematic reverse engineering of these complex systems is not just possible – it's revolutionizing our understanding.
+Richard Feynman's principle, "What I cannot create, I do not understand," perfectly encapsulates the mission of mechanistic interpretability. The field has achieved remarkable breakthroughs in demystifying neural networks, from [Elhage et al.'s (2021)](https://transformer-circuits.pub/2021/framework/index.html) mathematical frameworks for transformer circuits to [Elhage et al.'s (2022)](https://transformer-circuits.pub/2022/toy_model/index.html) understanding of superposition phenomena. Recent advances in automated circuit discovery [(Conmy et al., 2023)](https://arxiv.org/abs/2304.14997) and interpretable circuits in GPT-2 [(Wang et al., 2022)](https://arxiv.org/abs/2211.00593) demonstrate that systematic reverse engineering of these complex systems is not just possible – it's revolutionizing our understanding.
 
 ## 🔬 Practical Applications
 
@@ -47,9 +47,9 @@ My research explores the crucial intersection of knowledge representation and mo
 
 The most compelling aspect of this work is its potential to transform theoretical insights into practical applications, advancing both our understanding and our ability to create more reliable, controllable AI systems. Apart from the papers mentioned above, I draw significant inspiration from several groundbreaking works in the field, including:
 
-- ["A Mathematical Framework for Transformer Circuits"](https://transformer-circuits.pub/2021/framework/index.html) (Elhage et al., 2021)
-- ["Editing Factual Knowledge in Language Models"](https://arxiv.org/abs/2104.08164) (Cao et al., 2021)
-- ["Language Agents Meet Causality -- Bridging LLMs and Causal World Models"](https://arxiv.org/abs/2410.19923) (Gkountouras et al., 2024)
-- ["Talking Heads: Understanding Inter-layer Communication in Transformer Language Models"](https://arxiv.org/abs/2406.09519) (Merullo et al., 2024)
-- ["CoSy: Evaluating Textual Explanations of Neurons"](https://arxiv.org/pdf/2405.20331) (Kopf et al., 2024)
-- ["Mechanistic Interpretability for AI Safety -- A Review"](https://arxiv.org/abs/2404.14082) (Bereska et al., 2024)
+- [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html) (Elhage et al., 2021)
+- [Editing Factual Knowledge in Language Models](https://arxiv.org/abs/2104.08164) (Cao et al., 2021)
+- [Language Agents Meet Causality -- Bridging LLMs and Causal World Models](https://arxiv.org/abs/2410.19923) (Gkountouras et al., 2024)
+- [Talking Heads: Understanding Inter-layer Communication in Transformer Language Models](https://arxiv.org/abs/2406.09519) (Merullo et al., 2024)
+- [CoSy: Evaluating Textual Explanations of Neurons](https://arxiv.org/abs/2405.20331) (Kopf et al., 2024)
+- [Mechanistic Interpretability for AI Safety -- A Review](https://arxiv.org/abs/2404.14082) (Bereska et al., 2024)
