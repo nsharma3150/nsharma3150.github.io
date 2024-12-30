@@ -15,13 +15,20 @@ My journey into understanding complex systems began at IIT Roorkee, where I comp
 
 This pursuit led me to a DAAD WISE scholarship at Friedrich Schiller University, Jena, where I worked on MRI-based biomarkers for Major Depressive Disorder. The experience sparked my interest in bridging neuroscience with machine learning, ultimately leading to publications in Biological Psychiatry and successful pre-prints on ketamine's effects on brain connectivity.
 
-Currently, I'm pursuing my Master's in Neural Information Processing at the University of Tübingen (1.24/4.0), supported by the Deutschlandstipendium scholarship. As a researcher at the Mental Health Mapping Lab under Dr. Thomas Wolfers, I've been exploring the intersection of healthcare and AI, developing interpretable models for clinical applications. I'm particularly proud of our work on postoperative delirium prediction, where we emphasized model interpretability through SHAP values to ensure clinical relevance.
+Currently, I'm pursuing my Master's in Neural Information Processing at the University of Tübingen (1.24/4.0), supported by the Deutschlandstipendium scholarship. As a research assistant at the [Mental Health Mapping Lab](https://mhm-lab.github.io/) under [Dr. Thomas Wolfers](https://thomaswolfers.github.io/), I've been exploring the intersection of healthcare and AI, developing interpretable models for clinical applications. I'm particularly proud of our work on postoperative delirium prediction, where we emphasized model interpretability through SHAP values to ensure clinical relevance.
 
 🧪 **Current Focus**
 
-My current research at the Bethge Lab, under Prof. Matthias Bethge and Dr. Çağatay Yıldiz, investigates how language models acquire and represent knowledge during training. This work combines my interests in theoretical understanding and practical applications. I'm also developing a GAMLSS-based Python package for neuroimaging applications, already in use by lab members.
+My current research at the Bethge Lab, under [Prof. Matthias Bethge](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/) and [Dr. Cagatay Yildiz](https://cagatayyildiz.github.io/) at the [Bethge Lab](https://bethgelab.org/), investigates how language models acquire and represent knowledge during training. This work combines my interests in theoretical understanding and practical applications. I'm also developing a GAMLSS-based Python package for neuroimaging applications, already in use by lab members.
 
-From January to March 2024, I'll be working with Dr. Claire Vernade's lab, continuing to explore the fascinating world of AI interpretability and mechanistic understanding.
+
+🧪 **Current Focus**
+
+My fascination with understanding the inner workings of AI systems led me to focus on mechanistic interpretability for my master's thesis at the [Bethge Lab](https://bethgelab.org/), under [Prof. Matthias Bethge](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/) and [Dr. Cagatay Yildiz](https://cagatayyildiz.github.io/). Here, I'm investigating how language models acquire and represent knowledge during continual pre-training across different domains, working with the vast arXiv dataset (over 1.5 million documents) to develop frameworks that can predict optimal pre-training domains for specific tasks based on patterns in the model's internal representations.
+
+Parallel to my thesis work, I'm developing a GAMLSS-based Python package for neuroimaging applications at the [Mental Health Mapping Lab](https://mhm-lab.github.io/) under [Dr. Thomas Wolfers](https://thomaswolfers.github.io/). This package, which implements Generalized Additive Models for Location, Scale, and Shape, is already being utilized by lab members for their research and will be publicly released in early months of 2025.
+
+From January to March 2024, I'll be continuing my exploration of AI interpretability as a HiWi under Dr. Çağatay Yıldiz in Claire Vernade's lab, further deepening my understanding of how we can make AI systems more transparent and reliable.
 
 👨‍🏫 **Teaching & Mentoring**
 
