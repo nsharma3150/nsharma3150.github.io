@@ -9,7 +9,7 @@ author_profile: true
 
 🔍 **Research Journey**
 
-My journey into understanding complex systems began at IIT Roorkee, where I completed my Bachelor's in Engineering Physics, graduating with the Department Gold Medal (9.57/10) and Best Thesis Award in 2023. What started as curiosity about signal processing in Dr. R.S. Anand's lab, working on EEG-based epilepsy detection, evolved into a deeper fascination with neural systems and their computational understanding.
+My journey into understanding complex systems began at Indian Institute of Technology Roorkee, where I completed my Bachelor's in Engineering Physics, graduating with the Department Gold Medal (9.57/10) and Best Thesis Award in 2023. What started as curiosity about signal processing in Dr. R.S. Anand's lab, working on EEG-based epilepsy detection, evolved into a deeper fascination with neural systems and their computational understanding.
 
 This pursuit led me to a DAAD WISE scholarship at Friedrich Schiller University, Jena, where I worked on MRI-based biomarkers for Major Depressive Disorder. The experience sparked my interest in bridging neuroscience with machine learning, ultimately leading to publications in Biological Psychiatry and successful pre-prints on ketamine's effects on brain connectivity.
 
