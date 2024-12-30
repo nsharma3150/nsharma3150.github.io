@@ -5,8 +5,6 @@ permalink: /about_me/
 author_profile: true
 ---
 
-# About Me
-
 🔍 **Research Journey**
 
 My journey into understanding complex systems began at Indian Institute of Technology Roorkee, where I completed my Bachelor's in Engineering Physics, graduating with the Department Gold Medal (9.57/10) and Best Thesis Award in 2023. What started as curiosity about signal processing in Dr. R.S. Anand's lab, working on EEG-based epilepsy detection, evolved into a deeper fascination with neural systems and their computational understanding.
