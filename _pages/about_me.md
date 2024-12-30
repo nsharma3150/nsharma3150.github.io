@@ -17,10 +17,6 @@ This pursuit led me to a DAAD WISE scholarship at Friedrich Schiller University,
 
 Currently, I'm pursuing my Master's in Neural Information Processing at the University of Tübingen (1.24/4.0), supported by the Deutschlandstipendium scholarship. As a research assistant at the [Mental Health Mapping Lab](https://mhm-lab.github.io/) under [Dr. Thomas Wolfers](https://thomaswolfers.github.io/), I've been exploring the intersection of healthcare and AI, developing interpretable models for clinical applications. I'm particularly proud of our work on postoperative delirium prediction, where we emphasized model interpretability through SHAP values to ensure clinical relevance.
 
-🧪 **Current Focus**
-
-My current research at the Bethge Lab, under [Prof. Matthias Bethge](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/) and [Dr. Cagatay Yildiz](https://cagatayyildiz.github.io/) at the [Bethge Lab](https://bethgelab.org/), investigates how language models acquire and represent knowledge during training. This work combines my interests in theoretical understanding and practical applications. I'm also developing a GAMLSS-based Python package for neuroimaging applications, already in use by lab members.
-
 
 🧪 **Current Focus**
 
@@ -28,7 +24,7 @@ My fascination with understanding the inner workings of AI systems led me to foc
 
 Parallel to my thesis work, I'm developing a GAMLSS-based Python package for neuroimaging applications at the [Mental Health Mapping Lab](https://mhm-lab.github.io/) under [Dr. Thomas Wolfers](https://thomaswolfers.github.io/). This package, which implements Generalized Additive Models for Location, Scale, and Shape, is already being utilized by lab members for their research and will be publicly released in early months of 2025.
 
-From January to March 2024, I'll be continuing my exploration of AI interpretability as a HiWi under Dr. Çağatay Yıldiz in Claire Vernade's lab, further deepening my understanding of how we can make AI systems more transparent and reliable.
+From January to March 2024, I'll be continuing my exploration of AI interpretability as a HiWi under Dr. Çağatay Yıldiz in Claire Vernade's lab. I'm excited about contributing to the future of interpretable AI systems that can reliably serve human needs, and I'm currently working on manuscripts from both my thesis work and the normative modeling project.
 
 👨‍🏫 **Teaching & Mentoring**
 
@@ -36,8 +32,12 @@ I believe in giving back to the academic community. As a Teaching Assistant for 
 
 🌱 **Beyond Research**
 
-When I'm not delving into neural networks, you'll find me on the beach volleyball court or training for long-distance runs - I've participated in 100km marathons at university! I'm also passionate about community service, having led initiatives like 'Daan Petika' during my time as an Executive at NSS IIT Roorkee, organizing blood donation camps and environmental cleanup drives.
+When I'm not delving into neural networks, you'll find me on the beach volleyball court or training for long-distance runs - I've participated in 100km marathons at university! I'm also passionate about community service, having led initiatives like 'Daan Petika' during my time as an Executive at NSS IIT Roorkee, organizing blood donation camps and environmental cleanup drives. I believe in maintaining a balanced life that combines intellectual pursuits with physical activity and giving back to the community.
 
-Currently, I'm seeking PhD positions and research opportunities while working on manuscripts from my thesis and normative modeling work. I'm excited about contributing to the future of interpretable AI systems that can reliably serve human needs.
+🤝 **Let's Connect**
 
-*[Feel free to connect with me to discuss research, collaboration opportunities, or just for a chat about AI, neuroscience, or volleyball!]*
+I'm actively seeking PhD positions and research internships in Machine Learning and AI, with a particular focus on LLM interpretability and mechanistic understanding. I'm also open to collaborations that align with my research interests - whether that's in AI, neuroscience, or at their intersection.
+
+If my work intrigues you, I'd be happy to give a presentation or engage in an in-depth discussion about potential research synergies. And of course, I'm always up for a chat about research, AI, or volleyball! Feel free to reach out to me at nitinsharma3150@gmail.com.
+
+Let's explore how we might work together to advance the field of interpretable AI!
