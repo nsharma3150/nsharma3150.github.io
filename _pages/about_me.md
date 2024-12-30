@@ -5,8 +5,6 @@ permalink: /about_me/
 author_profile: true
 ---
 
-Based on the provided materials, I'll help craft an engaging "About Me" section that maintains professionalism while being personable. Here's a suggested version:
-
 # About Me
 
 🔍 **Research Journey**
@@ -17,10 +15,12 @@ This pursuit led me to a DAAD WISE scholarship at Friedrich Schiller University,
 
 Currently, I'm pursuing my Master's in Neural Information Processing at the University of Tübingen (1.24/4.0), supported by the Deutschlandstipendium scholarship. As a research assistant at the [Mental Health Mapping Lab](https://mhm-lab.github.io/) under [Dr. Thomas Wolfers](https://thomaswolfers.github.io/), I've been exploring the intersection of healthcare and AI, developing interpretable models for clinical applications. I'm particularly proud of our work on postoperative delirium prediction, where we emphasized model interpretability through SHAP values to ensure clinical relevance.
 
+To complement my research in healthcare applications, I had the opportunity to explore two fascinating domains through my rotations. As part of my thesis, I conducted an essay rotation on "Large Language Models and Psychotherapy: Bridging the Gap with Mechanistic Interpretability" under [Dr. Thomas Wolfers](https://thomaswolfers.github.io/), which earned me the Best Presentation Award from the Graduate Training Centre of Neuroscience. Additionally, I pursued a lab rotation at the [Dayan lab](https://www.kyb.tuebingen.mpg.de/computational-neuroscience) (MPI for Biological Cybernetics) under [Dr. Sara Ershadmanesh](https://www.kyb.tuebingen.mpg.de/person/106573/2549), investigating metacognitive abilities in reversal learning tasks. These experiences deepened my understanding of how both biological and artificial systems learn and adapt to changing environments, while also highlighting the crucial role of interpretability in complex systems. This journey through different aspects of learning systems naturally led me to my current focus on mechanistic interpretability of AI systems.
+
 
 🧪 **Current Focus**
 
-My fascination with understanding the inner workings of AI systems led me to focus on mechanistic interpretability for my master's thesis at the [Bethge Lab](https://bethgelab.org/), under [Prof. Matthias Bethge](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/) and [Dr. Cagatay Yildiz](https://cagatayyildiz.github.io/). Here, I'm investigating how language models acquire and represent knowledge during continual pre-training across different domains, working with the vast arXiv dataset (over 1.5 million documents) to develop frameworks that can predict optimal pre-training domains for specific tasks based on patterns in the model's internal representations.
+Building on these experiences, I'm currently working on my master's thesis at the [Bethge Lab](https://bethgelab.org/), under [Prof. Matthias Bethge](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/) and [Dr. Cagatay Yildiz](https://cagatayyildiz.github.io/). Here, I'm investigating how language models acquire and represent knowledge during continual pre-training across different domains, working with the vast arXiv dataset (over 1.5 million documents) to develop frameworks that can predict optimal pre-training domains for specific tasks based on patterns in the model's internal representations.
 
 Parallel to my thesis work, I'm developing a GAMLSS-based Python package for neuroimaging applications at the [Mental Health Mapping Lab](https://mhm-lab.github.io/) under [Dr. Thomas Wolfers](https://thomaswolfers.github.io/). This package, which implements Generalized Additive Models for Location, Scale, and Shape, is already being utilized by lab members for their research and will be publicly released in early months of 2025.
 
