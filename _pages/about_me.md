@@ -36,6 +36,6 @@ When I'm not delving into neural networks, you'll find me on the beach volleybal
 
 I'm actively seeking PhD positions and research internships in Machine Learning and AI, with a particular focus on LLM interpretability and mechanistic understanding. I'm also open to collaborations that align with my research interests - whether that's in AI, neuroscience, or at their intersection.
 
-If my work intrigues you, I'd be happy to give a presentation or engage in an in-depth discussion about potential research synergies. And of course, I'm always up for a chat about research, AI, or volleyball! Feel free to reach out to me at nitinsharma3150@gmail.com.
+If my work intrigues you, I'd be happy to give a presentation or engage in an in-depth discussion about potential research synergies. And of course, I'm always up for a chat about research, AI, or volleyball! Feel free to reach out to me at [nitinsharma3150@gmail.com](nitinsharma3150@gmail.com).
 
 Let's explore how we might work together to advance the field of interpretable AI!
