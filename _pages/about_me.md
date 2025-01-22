@@ -22,7 +22,7 @@ Building on these experiences, I'm currently working on my master's thesis at th
 
 Parallel to my thesis work, I'm developing a GAMLSS-based Python package for neuroimaging applications at the Mental Health Mapping Lab under Dr. Thomas Wolfers. This package, which implements Generalized Additive Models for Location, Scale, and Shape, is already being utilized by lab members for their research and will be publicly released in early months of 2025.
 
-From January to March 2024, I'll be continuing my exploration of AI interpretability as a HiWi under Dr. Çağatay Yıldiz in [Claire Vernade's lab](https://www.cvernade.com/). I'm excited about contributing to the future of interpretable AI systems that can reliably serve human needs, and I'm currently working on manuscripts from both my thesis work and the normative modeling project.
+From January to March 2025, I'll be continuing my exploration of AI interpretability as a HiWi under Dr. Çağatay Yıldiz in [Claire Vernade's lab](https://www.cvernade.com/). I'm excited about contributing to the future of interpretable AI systems that can reliably serve human needs, and I'm currently working on manuscripts from both my thesis work and the normative modeling project.
 
 👨‍🏫 **Teaching & Mentoring**
 
