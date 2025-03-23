@@ -17,7 +17,7 @@ I am a 2nd-year master's student, currently pursuing my thesis under [Prof. Matt
 
 ## 🧪 Current Research Directions
 
-Our research extends [Geva et al.'s (2023)](https://arxiv.org/abs/2304.14767) foundational work on factual associations in auto-regressive models, developing more sophisticated measurement techniques. A critical insight emerged from [Öncel et al.'s (2024)](https://arxiv.org/abs/2410.05581) findings that traditional perplexity metrics can be deceptive – high perplexity scores don't always indicate true domain understanding.
+Our research extends [Geva et al.'s (2023)](https://arxiv.org/abs/2304.14767) foundational work on factual associations in auto-regressive models, developing more sophisticated measurement techniques. A critical insight emerged from [Öncel et al.'s (2024)](https://arxiv.org/abs/2410.05581) findings that traditional perplexity metrics can be deceptive – lower perplexity scores don't always indicate true domain understanding.
 
 I'm currently advancing research along two primary axes:
 
