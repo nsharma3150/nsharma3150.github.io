@@ -13,14 +13,15 @@ I am a Research Assistant at the University of Tübingen, working with [Dr. Thom
 
 ## 📰 Recent News
 
-<div class="news-box" markdown="1">
-* **June 2025:** New preprint released: "Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping" on arXiv
-* **April 2025:** Paper "[Investigating Continual Pretraining in Large Language Models](https://openreview.net/forum?id=aKjJoEVKgO)" accepted at TMLR
-* **April 2025:** Started Research Assistant position at University of Tübingen under [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldız](https://cagatayyildiz.github.io/)
-* **March 2025:** Successfully defended Master's thesis on "Mechanistic Understanding of Factual Knowledge in LLMs" at [Bethge Lab](https://bethgelab.org/)
-* **2024:** Awarded Deutschlandstipendium scholarship for outstanding academic achievements
+<div class="news-box">
+<ul>
+<li><strong>June 2025:</strong> New preprint released: "Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping" on arXiv</li>
+<li><strong>April 2025:</strong> Paper "<a href="https://openreview.net/forum?id=aKjJoEVKgO">Investigating Continual Pretraining in Large Language Models</a>" accepted at TMLR</li>
+<li><strong>April 2025:</strong> Started Research Assistant position at University of Tübingen under <a href="https://thomaswolfers.com/">Dr. Thomas Wolfers</a> and <a href="https://cagatayyildiz.github.io/">Dr. Çağatay Yıldız</a></li>
+<li><strong>March 2025:</strong> Successfully defended Master's thesis on "Mechanistic Understanding of Factual Knowledge in LLMs" at <a href="https://bethgelab.org/">Bethge Lab</a></li>
+<li><strong>2024:</strong> Awarded Deutschlandstipendium scholarship for outstanding academic achievements</li>
+</ul>
 </div>
-
 
 ## 🧪 Current Research
 
