@@ -15,7 +15,7 @@ I am a Research Assistant at the University of Tübingen, working with [Dr. Thom
 
 <div class="news-box">
 <ul>
-<li><strong>June 2025:</strong> New preprint released: "Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping" on arXiv</li>
+<li><strong>June 2025:</strong> New preprint released: "<a href="https://arxiv.org/abs/2506.07658">Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping</a>" on arXiv</li>
 <li><strong>April 2025:</strong> Paper "<a href="https://openreview.net/forum?id=aKjJoEVKgO">Investigating Continual Pretraining in Large Language Models</a>" accepted at TMLR</li>
 <li><strong>April 2025:</strong> Started Research Assistant position at University of Tübingen under <a href="https://thomaswolfers.com/">Dr. Thomas Wolfers</a> and <a href="https://cagatayyildiz.github.io/">Dr. Çağatay Yıldız</a></li>
 <li><strong>March 2025:</strong> Successfully defended Master's thesis on "Mechanistic Understanding of Factual Knowledge in LLMs" at <a href="https://bethgelab.org/">Bethge Lab</a></li>
