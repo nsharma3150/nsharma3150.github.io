@@ -13,7 +13,7 @@ I am a Research Assistant at the University of Tübingen, working with [Dr. Thom
 
 ## 📰 Recent News
 
-<div class="news-box">
+<div class="news-box" markdown="1">
 <ul>
 <li><strong>June 2025:</strong> New preprint released: "Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping" on arXiv</li>
 <li><strong>April 2025:</strong> Paper "[Investigating Continual Pretraining in Large Language Models](https://openreview.net/forum?id=aKjJoEVKgO)" accepted at TMLR</li>
