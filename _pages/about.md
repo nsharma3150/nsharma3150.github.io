@@ -7,21 +7,22 @@ redirect_from:
   - /about.html
 ---
 
+# 🔍 Research Focus: Understanding How LLMs Process Knowledge
+
+I am a Research Assistant at the University of Tübingen, working with [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldız](https://cagatayyildiz.github.io/) on mechanistic interpretability of large language models. My research centers on developing novel approaches to understand how these complex systems acquire, represent, and access knowledge.
+
 ## 📰 Recent News
 
 <div class="news-box">
 <ul>
 <li><strong>January 2025:</strong> New preprint released: "Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping" on arXiv</li>
-<li><strong>April 2024:</strong> Paper "Investigating Continual Pretraining in Large Language Models" accepted at TMLR (37+ citations)</li>
-<li><strong>April 2025:</strong> Started Research Assistant position at University of Tübingen under Dr. Thomas Wolfers and Dr. Çağatay Yıldız</li>
-<li><strong>March 2025:</strong> Successfully defended Master's thesis on "Mechanistic Understanding of Factual Knowledge in LLMs" at Bethge Lab</li>
+<li><strong>April 2024:</strong> Paper "[Investigating Continual Pretraining in Large Language Models[(https://openreview.net/forum?id=aKjJoEVKgO)" accepted at TMLR</li>
+<li><strong>April 2025:</strong> Started Research Assistant position at University of Tübingen under [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldız](https://cagatayyildiz.github.io/)</li>
+<li><strong>March 2025:</strong> Successfully defended Master's thesis on "Mechanistic Understanding of Factual Knowledge in LLMs" at [Bethge Lab](https://bethgelab.org/)</li>
 <li><strong>2024:</strong> Awarded Deutschlandstipendium scholarship for outstanding academic achievements</li>
 </ul>
 </div>
 
-# 🔍 Research Focus: Understanding How LLMs Process Knowledge
-
-I am a Research Assistant at the University of Tübingen, working with [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldız](https://cagatayyildiz.github.io/) on mechanistic interpretability of large language models. My research centers on developing novel approaches to understand how these complex systems acquire, represent, and access knowledge.
 
 ## 🧪 Current Research
 
