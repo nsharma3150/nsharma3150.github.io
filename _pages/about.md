@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /
 title: "Exploring the Inner Workings of Large Language Models"
 author_profile: true
 redirect_from: 
