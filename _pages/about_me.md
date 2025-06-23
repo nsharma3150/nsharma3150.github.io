@@ -37,14 +37,6 @@ I believe in giving back to the academic community. As a Teaching Assistant for 
 
 When I'm not delving into neural networks, you'll find me on the beach volleyball court or training for long-distance runs - I've participated in 100km marathons at university! I'm also passionate about community service, having led initiatives like 'Daan Petika' during my time as an Executive at NSS IIT Roorkee, organizing blood donation camps and environmental cleanup drives. I believe in maintaining a balanced life that combines intellectual pursuits with physical activity and giving back to the community.
 
-🏆 **Recent Highlights**
-
-- **January 2025**: Released "Beyond Benchmarks" preprint, extending my Master's thesis into practical applications
-- **2024**: "Investigating Continual Pretraining" accepted at TMLR with growing impact (37+ citations)
-- **March 2025**: Successfully defended Master's thesis with distinction
-- **2024**: Awarded Deutschlandstipendium for outstanding academic achievements
-- **April 2025**: Started Research Assistant position focusing on cutting-edge interpretability research
-
 🤝 **Let's Connect**
 
 I'm passionate about advancing the field of interpretable AI and am always excited to discuss research, potential collaborations, or simply chat about the fascinating world of mechanistic interpretability. Whether you're interested in knowledge representation in LLMs, activation engineering, or the intersection of AI and neuroscience, I'd love to connect!
