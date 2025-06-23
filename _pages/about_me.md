@@ -1,12 +1,10 @@
----
 permalink: /
-title: "Mechanistic Interpretability in Large Language Models"
+title: "Exploring the Inner Workings of Large Language Models"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 # 🔍 Research Focus: Understanding How LLMs Process Knowledge
 
