@@ -1,54 +1,54 @@
 ---
-permalink: /
-title: "Exploring the Inner Workings of Large Language Models"
+layout: archive
+title: "About Me"
+permalink: /about_me/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-# 🔍 Research Focus: Understanding How LLMs Process Knowledge
+🔍 **Research Journey**
 
-I am a Research Assistant at the University of Tübingen, working with [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldız](https://cagatayyildiz.github.io/) on mechanistic interpretability of large language models. My research centers on developing novel approaches to understand how these complex systems acquire, represent, and access knowledge.
+My journey into understanding complex systems began at Indian Institute of Technology Roorkee, where I completed my Bachelor's in Engineering Physics, graduating with the Department Gold Medal (9.57/10) and Best Thesis Award in 2023. What started as curiosity about signal processing in Dr. R.S. Anand's lab, working on EEG-based epilepsy detection, evolved into a deeper fascination with neural systems and their computational understanding.
 
-## 📰 Recent News
+I recently completed my Master's in Neural Information Processing at the University of Tübingen (March 2025, 1.24/4.0), supported by the Deutschlandstipendium scholarship. My thesis on "Mechanistic Understanding of Factual Knowledge in LLMs" under [Prof. Matthias Bethge](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-theoretische-physik/arbeitsgruppen/ag-bethge/) and [Dr. Çağatay Yıldiz](https://cagatayyildiz.github.io/) at the [Bethge Lab](https://bethgelab.org/) has now been extended into my current research work.
 
-<div class="news-box">
-<ul>
-<li><strong>January 2025:</strong> New preprint released: "Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping" on arXiv</li>
-<li><strong>April 2024:</strong> Paper "Investigating Continual Pretraining in Large Language Models" accepted at TMLR </li>
-<li><strong>April 2025:</strong> Started Research Assistant position at University of Tübingen under Dr. Thomas Wolfers and Dr. Çağatay Yıldız</li>
-<li><strong>March 2025:</strong> Successfully defended Master's thesis on "Mechanistic Understanding of Factual Knowledge in LLMs" at Bethge Lab</li>
-<li><strong>2024:</strong> Awarded Deutschlandstipendium scholarship for outstanding academic achievements</li>
-</ul>
-</div>
+Throughout my studies, I've been exploring the intersection of healthcare and AI as a research assistant at the [Mental Health Mapping Lab](https://mhm-lab.github.io/) under [Dr. Thomas Wolfers](https://thomaswolfers.github.io/), developing interpretable models for clinical applications. I'm particularly proud of our work on postoperative delirium prediction, where we emphasized model interpretability through SHAP values to ensure clinical relevance.
 
-## 🧪 Current Research
+To complement my research in healthcare applications, I had the opportunity to explore two fascinating domains through my rotations. My essay rotation on "Large Language Models and Psychotherapy: Bridging the Gap with Mechanistic Interpretability" under Dr. Thomas Wolfers earned me the Best Presentation Award from the Graduate Training Centre of Neuroscience. Additionally, I pursued a lab rotation at the [Dayan lab](https://www.kyb.tuebingen.mpg.de/computational-neuroscience) (MPI for Biological Cybernetics) under [Dr. Sara Ershadmanesh](https://www.kyb.tuebingen.mpg.de/person/106573/2549), investigating metacognitive abilities in reversal learning tasks. These experiences deepened my understanding of how both biological and artificial systems learn and adapt to changing environments, while highlighting the crucial role of interpretability in complex systems.
 
-My work focuses on two complementary areas:
+🧪 **Current Focus**
 
-**Knowledge Measurement & Evaluation**: Developing contamination-free evaluation frameworks for domain-specific knowledge in LLMs, extending beyond traditional perplexity metrics to understand true domain understanding.
+Since April 2025, I'm working as a Research Assistant at the University of Tübingen under [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldiz](https://cagatayyildiz.github.io/), focusing on two exciting projects in mechanistic interpretability:
 
-**Activation Engineering**: Investigating how domain knowledge emerges as targetable directions in model activation space, enabling systematic control without traditional fine-tuning approaches.
+**Steering Vectors for Knowledge Access**: I'm developing activation engineering techniques to access latent knowledge in language models without pre-training, analyzing how domain knowledge emerges as targetable directions across model layers for systematic control.
 
-## 💡 Research Philosophy
+**Domain-Specific LLM Evaluation**: Building on my Master's thesis, I recently released ["Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping"](https://arxiv.org/abs/2506.07658) (January 2025). This work presents a deterministic pipeline for creating contamination-free benchmarks from raw corpora, tested on massive datasets including arXiv (1.56M documents) and M2D2 (8.5B tokens).
 
-Following Richard Feynman's principle "What I cannot create, I do not understand," my research aims to reverse-engineer the internal mechanisms of language models. By understanding how these systems process and represent knowledge, we can build more reliable, controllable, and interpretable AI systems.
+I'm also proud of our work on ["Investigating Continual Pretraining in Large Language Models"](https://arxiv.org/abs/2402.17400), which was accepted at TMLR and has garnered 37+ citations. This research revealed fascinating insights about how model size affects learning and forgetting during continual pretraining, and how domain sequencing strategies impact knowledge transfer.
 
-## 🔬 Key Contributions
+Parallel to my main research, I continue developing a GAMLSS-based Python package for neuroimaging applications at the Mental Health Mapping Lab. This package implements Generalized Additive Models for Location, Scale, and Shape and is being utilized by lab members, with a public release planned for 2025. I'm also co-supervising a master's student's project on ML applications in nerve disease diagnostics.
 
-- **Domain-Specific Evaluation**: Created deterministic pipelines for contamination-free LLM evaluation using large-scale datasets (arXiv: 1.56M documents, M2D2: 8.5B tokens)
-- **Continual Learning**: Investigated how model size affects knowledge acquisition and retention during continual pretraining across diverse domains
-- **Activation Engineering**: Developed techniques to access latent knowledge through steering vectors and activation patterns
+**Research Philosophy**: Following Richard Feynman's principle "What I cannot create, I do not understand," my work aims to reverse-engineer the internal mechanisms of language models. By understanding how these systems process and represent knowledge, we can build more reliable, controllable, and interpretable AI systems that truly serve human needs.
 
-## 🎯 Impact & Applications
+👨‍🏫 **Teaching & Mentoring**
 
-This research enables practical breakthroughs in:
-- **Model Efficiency**: Targeted knowledge editing without full retraining
-- **Safety & Control**: Direct model steering through activation engineering  
-- **Robust Evaluation**: Better understanding of what models truly know vs. memorize
-- **Knowledge Transfer**: Optimizing how models adapt to new domains
+I believe in giving back to the academic community. As a Teaching Assistant for the Neuromatch Academy's Deep Learning Course (2024), I've had the privilege of guiding international students through complex concepts. My experience includes mentoring first-year students at IIT Roorkee and leading programming tutorials in the Academic Reinforcement Program.
 
----
+🌱 **Beyond Research**
 
-*Research conducted at the [Bethge Lab](https://bethgelab.org/), [Vernade Lab](https://www.cvernade.com/) and in collaboration with the [Mental Health Mapping Lab]([https://www.cvernade.com/](https://mhm-lab.github.io/)), University of Tübingen.*
+When I'm not delving into neural networks, you'll find me on the beach volleyball court or training for long-distance runs - I've participated in 100km marathons at university! I'm also passionate about community service, having led initiatives like 'Daan Petika' during my time as an Executive at NSS IIT Roorkee, organizing blood donation camps and environmental cleanup drives. I believe in maintaining a balanced life that combines intellectual pursuits with physical activity and giving back to the community.
+
+🏆 **Recent Highlights**
+
+- **January 2025**: Released "Beyond Benchmarks" preprint, extending my Master's thesis into practical applications
+- **2024**: "Investigating Continual Pretraining" accepted at TMLR with growing impact (37+ citations)
+- **March 2025**: Successfully defended Master's thesis with distinction
+- **2024**: Awarded Deutschlandstipendium for outstanding academic achievements
+- **April 2025**: Started Research Assistant position focusing on cutting-edge interpretability research
+
+🤝 **Let's Connect**
+
+I'm passionate about advancing the field of interpretable AI and am always excited to discuss research, potential collaborations, or simply chat about the fascinating world of mechanistic interpretability. Whether you're interested in knowledge representation in LLMs, activation engineering, or the intersection of AI and neuroscience, I'd love to connect!
+
+If my work intrigues you, I'd be happy to give a presentation or engage in an in-depth discussion about research synergies. And of course, I'm always up for a chat about volleyball too! Feel free to reach out to me at [nitinsharma3150@gmail.com](nitinsharma3150@gmail.com).
+
+Let's explore how we might work together to push the boundaries of what we understand about these remarkable AI systems!
