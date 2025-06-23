@@ -52,4 +52,4 @@ This research enables practical breakthroughs in:
 
 ---
 
-*Research conducted at the [Bethge Lab](https://bethgelab.org/) and in collaboration with the Mental Health Mapping Lab, University of Tübingen.*
+*Research conducted at the [Bethge Lab](https://bethgelab.org/), [Vernade Lab](https://www.cvernade.com/) and in collaboration with the [Mental Health Mapping Lab]([https://www.cvernade.com/](https://mhm-lab.github.io/)), University of Tübingen.*
