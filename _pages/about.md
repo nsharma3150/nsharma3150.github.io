@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# 🔍 Research Focus: Understanding How LLMs Process Knowledge
+## 🔍 Research Focus: Understanding the Inner Workings of LLMs
 
-I am a Research Assistant at the University of Tübingen, working with [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldız](https://cagatayyildiz.github.io/) on mechanistic interpretability of large language models. My research centers on developing novel approaches to understand how these complex systems acquire, represent, and access knowledge.
+I am a Research Assistant at the University of Tübingen, working with [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldız](https://cagatayyildiz.github.io/) on the mechanistic interpretability of large language models. My research centers on developing novel approaches to understand how these complex systems acquire, represent, and access knowledge.
 
 ## 📰 Recent News
 
