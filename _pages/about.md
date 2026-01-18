@@ -21,7 +21,7 @@ I am a Research Assistant at the University of Tübingen, working with [Dr. Thom
 <li><strong>June 2025:</strong> New preprint released: "<a href="https://arxiv.org/abs/2506.07658">Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping</a>" on arXiv</li>
 <li><strong>April 2025:</strong> Paper "<a href="https://openreview.net/forum?id=aKjJoEVKgO">Investigating Continual Pretraining in Large Language Models</a>" accepted at TMLR</li>
 <li><strong>April 2025:</strong> Started Research Assistant position at University of Tübingen under <a href="https://thomaswolfers.com/">Dr. Thomas Wolfers</a> and <a href="https://cagatayyildiz.github.io/">Dr. Çağatay Yıldız</a></li>
-<li><strong>March 2025:</strong> Received Master's degree in Neural Information Processing (grade: 1.24), University of Tübingen; thesis: "Mechanistic Understanding of Factual Knowledge in LLMs" at <a href="https://bethgelab.org/">Bethge Lab</a></li>
+<li><strong>March 2025:</strong> Received Master's degree in Neural Information Processing (grade: 1.17), University of Tübingen; thesis: "Mechanistic Understanding of Factual Knowledge in LLMs" at <a href="https://bethgelab.org/">Bethge Lab</a></li>
 <li><strong>2024:</strong> Awarded Deutschlandstipendium scholarship for outstanding academic achievements</li>
 <li><strong>November 2023:</strong> Best Presentation Award for essay rotation "Large Language Models and Psychotherapy: Bridging the Gap with Mechanistic Interpretability" from Graduate Training Centre of Neuroscience, Tübingen</li>
 <li><strong>2022:</strong> Graduated with Department Gold Medal and Best Bachelor Thesis Award, Physics Department, Indian Institute of Technology Roorkee</li>
