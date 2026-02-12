@@ -15,6 +15,7 @@ I am a Research Assistant at the University of Tübingen, working with [Dr. Thom
 
 <div class="news-box">
 <ul>
+<li><strong>February 2026:</strong> Co-led two-day hands-on workshop on normative modeling at Friedrich-Schiller-University Jena, presenting custom-developed GAMLSS Python package</li>
 <li><strong>January 2026:</strong> Extended benchmarking work submitted to TMLR</li>
 <li><strong>December 2025:</strong> Abstract submitted to OHBM 2025 on normative modeling for neuroimaging (acceptance expected late January)</li>
 <li><strong>August 2025:</strong> Started supervising PhD student Jijia Xing on extending the benchmarking framework to medical and mental health domains</li>
