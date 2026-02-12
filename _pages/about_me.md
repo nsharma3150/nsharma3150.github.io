@@ -29,7 +29,9 @@ Parallel to this, I'm wrapping up two collaborative projects: developing a GAMLS
 
 ## 👨‍🏫 Teaching & Mentoring
 
-I believe in giving back to the academic community through teaching and mentorship. As a Teaching Assistant for the Neuromatch Academy's Deep Learning Course (2024), I guided international students through complex concepts in an intensive three-week program. My experience includes mentoring first-year students at IIT Roorkee and leading programming tutorials in the Academic Reinforcement Program.
+I believe in giving back to the academic community through teaching and mentorship. Most recently (February 2026), I co-led a two-day intensive hands-on workshop on normative modeling at Friedrich-Schiller-University Jena as part of the "Parsing Individual Differences in Brain Disorders" course. I presented my custom-developed GAMLSS Python package for neuroimaging, teaching psychology students data simulation, model fitting, visualization, transfer functions, and real-world neuroimaging data analysis.
+
+Previously, I served as a Teaching Assistant for the Neuromatch Academy's Deep Learning Course (2024), where I guided international students through complex concepts in an intensive three-week program. My teaching experience also includes mentoring first-year students at IIT Roorkee and leading programming tutorials in the Academic Reinforcement Program.
 
 **Current Supervision**: Since August 2025, I have been supervising PhD student Jijia Xing on extending the benchmarking framework to medical and mental health domains, focusing on safety-critical evaluation and data contamination effects across newer model architectures. Previously, I co-supervised a master's student on ML applications in nerve disease diagnostics (October 2024 - January 2025).
 
