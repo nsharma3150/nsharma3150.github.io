@@ -29,7 +29,7 @@ Parallel to this, I'm wrapping up two collaborative projects: developing a GAMLS
 
 ## 👨‍🏫 Teaching & Mentoring
 
-I believe in giving back to the academic community through teaching and mentorship. Most recently (February 2026), I co-led a two-day intensive hands-on workshop on normative modeling at Friedrich-Schiller-University Jena as part of the "Parsing Individual Differences in Brain Disorders" course. I presented my custom-developed GAMLSS Python package for neuroimaging, teaching psychology students data simulation, model fitting, visualization, transfer functions, and real-world neuroimaging data analysis.
+I believe in giving back to the academic community through teaching and mentorship. Most recently (February 2026), I co-led a two-day intensive hands-on workshop on normative modeling at Friedrich-Schiller-University Jena as part of the "Parsing Individual Differences in Brain Disorders" course. I presented my custom-developed GAMLSS Python package for neuroimaging, teaching psychology students data simulation, model fitting, visualization, transfer functions, and real-world neuroimaging data analysis ([tutorial notebook](https://nbviewer.org/github/nsharma3150/nsharma3150.github.io/blob/master/files/Normative_Modeling_Tutorial_8th_Feb_2026_Jena.ipynb)).
 
 Previously, I served as a Teaching Assistant for the Neuromatch Academy's Deep Learning Course (2024), where I guided international students through complex concepts in an intensive three-week program. My teaching experience also includes mentoring first-year students at IIT Roorkee and leading programming tutorials in the Academic Reinforcement Program.
 
