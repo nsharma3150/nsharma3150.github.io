@@ -16,7 +16,7 @@ I am a Research Assistant at the University of Tübingen, working with [Dr. Thom
 <div class="news-box">
 <ul>
 <li><strong>March 2026:</strong> Abstract accepted for both Poster and Oral presentation at <a href="https://www.humanbrainmapping.org/OHBM2026/">OHBM 2026</a> (Bordeaux, France, June 14–18); oral talk in the "Modeling and Analysis of Multimodal Data" session on "Transferable and Conditional Norms: Profiling Cortico-Subcortical Individual-level Variation"</li>
-<li><strong>March 2026:</strong> Co-authored paper "A normative reference for large-scale human brain dynamics across the lifespan" submitted to <em>Nature Neuroscience</em>. Pre-print avaiblable <a href="https://www.biorxiv.org/content/10.64898/2026.03.06.710057v1.abstract">here</a></li>
+<li><strong>March 2026:</strong> Co-authored paper "A normative reference for large-scale human brain dynamics across the lifespan" submitted to <em>Nature Neuroscience</em>. Pre-print available <a href="https://www.biorxiv.org/content/10.64898/2026.03.06.710057v1.abstract">here</a></li>
 <li><strong>February 2026:</strong> Co-led two-day hands-on workshop on normative modeling at Friedrich-Schiller-University Jena, presenting custom-developed GAMLSS Python package</li>
 <li><strong>January 2026:</strong> Extended benchmarking work submitted to TMLR</li>
 <li><strong>December 2025:</strong> Abstract submitted to OHBM 2026 on normative modeling for neuroimaging</li>
