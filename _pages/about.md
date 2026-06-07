@@ -13,8 +13,12 @@ I am a Research Assistant at the University of Tübingen, working with [Dr. Thom
 
 ## 📰 Recent News
 
-<div class="news-box">
+<div class="news-box" style="max-height: 420px; overflow-y: auto; padding-right: 8px;">
 <ul>
+<li><strong>June 2026:</strong> Presenting oral talk and poster (#2032, Wed–Thu) at <a href="https://www.humanbrainmapping.org/OHBM2026/">OHBM 2026</a> Annual Meeting (Bordeaux, France); oral in "Modeling and Analysis of Multimodal Data" session on June 17, 3:45–5:00 PM (Palais 2 l'Atlantique, Room E) on "Transferable and Conditional Norms: Profiling Cortico-Subcortical Individual-level Variation"</li>
+<li><strong>June 2026:</strong> Co-authored paper "Lamellar Normative Modelling of the Hippocampus Across the Human Lifespan" submitted to <em>Nature Communications</em></li>
+<li><strong>May 2026:</strong> Submitted short paper "<a href="https://openreview.net/forum?id=2A1D7T3zSe">Multiple-Choice Completion: A Format-Sensitive Failure Mode of Cloze-Style LLM Evaluation</a>" to ARR May 2026 (EMNLP track); exposes a format-sensitive failure mode where prompt phrasing alone shifts downstream accuracy by several points</li>
+<li><strong>May 2026:</strong> Submitted paper "<a href="https://openreview.net/forum?id=omkNoIbFh7">Where You Steer Depends on What You Steer: Component Selection Across Steering Axes in LLMs</a>" to Mech Interp Workshop at ICML 2026; establishes that component choice is axis-dependent: MLP-output steering dominates for factual axes, attention for behavioral axes</li>
 <li><strong>March 2026:</strong> Abstract accepted for both Poster and Oral presentation at <a href="https://www.humanbrainmapping.org/OHBM2026/">OHBM 2026</a> (Bordeaux, France, June 14–18); oral talk in the "Modeling and Analysis of Multimodal Data" session on "Transferable and Conditional Norms: Profiling Cortico-Subcortical Individual-level Variation"</li>
 <li><strong>March 2026:</strong> Co-authored paper "<a href="https://doi.org/10.64898/2026.03.06.710057">A normative reference for large-scale human brain dynamics across the lifespan</a>" submitted to <em>Nature Neuroscience</em></li>
 <li><strong>February 2026:</strong> Co-led two-day hands-on workshop on normative modeling at Friedrich-Schiller-University Jena, presenting custom-developed GAMLSS Python package (<a href="https://nbviewer.org/github/nsharma3150/nsharma3150.github.io/blob/master/files/Normative_Modeling_Tutorial_8th_Feb_2026_Jena.ipynb">tutorial notebook</a>)</li>
@@ -35,9 +39,9 @@ I am a Research Assistant at the University of Tübingen, working with [Dr. Thom
 
 My work focuses on two complementary areas:
 
-**Steering Vectors for Knowledge Access**: Developing activation engineering techniques using tuned lens, logit lens, causal tracing, and activation patching to localize domain-specific knowledge representations across model layers. Analyzing attribute extraction rates and layer-wise knowledge evolution through hook-based interventions to identify targetable directions for systematic model control.
+**Steering Vectors for Knowledge Access**: Developing activation engineering techniques using tuned lens, logit lens, causal tracing, and activation patching to localize domain-specific knowledge representations across model layers. Recent work (submitted to Mech Interp Workshop, ICML 2026) systematically compares residual stream, MLP output, and attention output components across all layers of three 7–9B models, finding that MLP-output steering dominates for factual axes (45% mean rank improvement) while attention outperforms MLP for behavioral axes such as toxicity—establishing component choice as a meaningful, axis-dependent design decision.
 
-**Domain-Specific LLM Evaluation**: Created a deterministic pipeline for contamination-free benchmark generation from raw corpora, tested on large-scale datasets (arXiv: 1.56M documents, M2D2: 8.5B tokens). Currently extending this framework to medical and mental health domains with focus on safety-critical evaluation and data contamination effects.
+**Domain-Specific LLM Evaluation**: Created a deterministic pipeline for contamination-free benchmark generation from raw corpora, tested on large-scale datasets (arXiv: 1.56M documents, M2D2: 8.5B tokens). Recent work (submitted to ARR May 2026/EMNLP) exposes a format-sensitive failure mode of cloze-style evaluation—MCQ completion—where prompt phrasing alone shifts downstream accuracy by several points and the effect is strongest on medical questions and newer models. Currently extending this framework to medical and mental health domains with focus on safety-critical evaluation and data contamination effects.
 
 ## 💡 Research Philosophy
 
@@ -45,9 +49,9 @@ Following Richard Feynman's principle "What I cannot create, I do not understand
 
 ## 🔬 Key Contributions
 
-- **Domain-Specific Evaluation**: Created deterministic pipelines for contamination-free LLM evaluation using large-scale datasets (arXiv: 1.56M documents, M2D2: 8.5B tokens)
+- **Domain-Specific Evaluation**: Created deterministic pipelines for contamination-free LLM evaluation using large-scale datasets (arXiv: 1.56M documents, M2D2: 8.5B tokens); identified MCQ completion as a format-sensitive failure mode that shifts accuracy by several points depending on prompt phrasing alone
 - **Continual Learning**: Investigated how model size affects knowledge acquisition and retention during continual pretraining across diverse domains (TMLR, 55+ citations)
-- **Activation Engineering**: Developing techniques to access latent knowledge through steering vectors, causal interventions, and activation pattern analysis
+- **Activation Engineering**: Established that optimal steering component is axis-dependent—MLP-output achieves 45% mean rank improvement on factual axes with global token injection; attention dominates for behavioral axes such as toxicity (submitted, ICML 2026 Mech Interp Workshop)
 - **Layer-wise Knowledge Representation**: Revealed that initial-to-mid layers are primarily responsible for attribute extraction while later layers focus on next token prediction, with implications for targeted fine-tuning and catastrophic forgetting mitigation
 
 ## 🎯 Impact & Applications
