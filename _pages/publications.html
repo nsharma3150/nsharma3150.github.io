@@ -13,17 +13,27 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="/images/steering_components_thumb.png" alt="Steering Components Paper Thumbnail">
+  </div>
+  <div class="publication-content">
+    <h2><a href="https://openreview.net/forum?id=omkNoIbFh7">Where You Steer Depends on What You Steer: Component Selection Across Steering Axes in LLMs</a></h2>
+    <p><strong>Nitin Sharma</strong>, Thomas Wolfers, Çağatay Yıldız</p>
+    <p><em>Submitted to Mechanistic Interpretability Workshop, ICML 2026</em></p>
+    <p>This work provides the first systematic study of how the choice of internal component—residual stream, MLP output, or attention output—affects activation steering quality in large language models. Testing across LLAMA-3.1-8B, Qwen2.5-7B, and Gemma-2 9B on two factual axes (medical, law) and a behavioral axis (toxicity), MLP-output steering dominates for factual axes with a 45% mean rank improvement over the residual stream, concentrated in early-to-middle layers consistent with MLP layers as the primary site of factual knowledge storage. For behavioral toxicity steering, this ordering inverts, with attention output outperforming MLP across all three models. Global injection across all token positions is critical for realizing the MLP advantage on factual axes, while behavioral steering is insensitive to injection strategy—establishing component choice as an explicit, axis-dependent design variable rather than a default.</p>
+  </div>
+</div>
 
 <div class="publication-item">
   <div class="publication-image">
-    <img src="/images/normative_brain_dynamics_thumb.png" alt="Normative Brain Dynamics Paper Thumbnail">
+    <img src="/images/mcq_completion_thumb.png" alt="MCQ Completion Paper Thumbnail">
   </div>
   <div class="publication-content">
-    <h2><a href="https://doi.org/10.64898/2026.03.06.710057">A normative reference for large-scale human brain dynamics across the lifespan</a></h2>
-    <p>Yanwu Yang, <strong>Nitin Sharma</strong>, Sicheng Dai, Francesco Mallus, Guinan Su, Atharva Kand, Mariam Zabihi, Dag Alnæs, et al.</p>
-    <p><em>Submitted to Nature Neuroscience</em>, 2026 | bioRxiv preprint</p>
-    <p>This work establishes the first population-level normative reference for large-scale human brain dynamics using resting-state fMRI data from more than 10,000 individuals spanning the lifespan across 91 scanning sites. The study derives a compact set of recurring brain-state configurations that are reproducible across scanners and generalise to unseen cohorts. Applying normative lifespan models reveals that intrinsic brain dynamics undergo systematic reorganisation across development and ageing, and that mental health conditions show disorder-specific, highly heterogeneous deviations not captured by static neuroimaging measures.</p>
+    <h2><a href="https://openreview.net/forum?id=2A1D7T3zSe">Multiple-Choice Completion: A Format-Sensitive Failure Mode of Cloze-Style LLM Evaluation</a></h2>
+    <p><strong>Nitin Sharma</strong>, Thomas Wolfers, Çağatay Yıldız</p>
+    <p><em>Submitted to ARR May 2026 (EMNLP track)</em></p>
+    <p>This paper identifies and characterizes MCQ completion, a failure mode of cloze-style LLM evaluation in which models respond to factual prompts by fabricating multiple-choice option lists rather than providing direct answers. Evaluating eight base models from the LLAMA and QWEN families, the study finds that prompt phrasing critically determines whether MCQ completion occurs: definitional endings such as "is known as" trigger the behavior 40–80% of the time, while passive tense or stop-word endings rarely do. The effect is strongest on medical questions and in newer models, yet disappears almost entirely on prompts extracted from real corpora or curated by experts. Phrasing alone shifts downstream multiple-choice accuracy by up to 7.5 points zero-shot, and this accuracy sensitivity persists even after three-shot prompting removes the completion artifact—showing that format effects on capability cannot be prompted away as easily as the surface behavior.</p>
   </div>
 </div>
 
@@ -53,6 +63,18 @@ author_profile: true
 
 <div class="publication-item">
   <div class="publication-image">
+    <img src="/images/normative_brain_dynamics_thumb.png" alt="Normative Brain Dynamics Paper Thumbnail">
+  </div>
+  <div class="publication-content">
+    <h2><a href="https://doi.org/10.64898/2026.03.06.710057">A normative reference for large-scale human brain dynamics across the lifespan</a></h2>
+    <p>Yanwu Yang, <strong>Nitin Sharma</strong>, Sicheng Dai, Francesco Mallus, Guinan Su, Atharva Kand, Mariam Zabihi, Dag Alnæs, et al.</p>
+    <p><em>Submitted to Nature Neuroscience</em>, 2026 | bioRxiv preprint</p>
+    <p>This work establishes the first population-level normative reference for large-scale human brain dynamics using resting-state fMRI data from more than 10,000 individuals spanning the lifespan across 91 scanning sites. The study derives a compact set of recurring brain-state configurations that are reproducible across scanners and generalise to unseen cohorts. Applying normative lifespan models reveals that intrinsic brain dynamics undergo systematic reorganisation across development and ageing, and that mental health conditions show disorder-specific, highly heterogeneous deviations not captured by static neuroimaging measures.</p>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-image">
     <img src="/images/pred_mental_illness_thumb.png" alt="Predicting Mental Illness Paper Thumbnail">
   </div>
   <div class="publication-content">
@@ -72,6 +94,18 @@ author_profile: true
     <p>Shun-Chin Jim Wu*, <strong>Nitin Sharma*</strong>, Anne Bauch, Hao-Chun Yang, Jasmine L Hect, et al.</p>
     <p>JMIR Aging, 2025</p>
     <p>This study analyzed data from 1,624 elderly patients (≥70 years) across five medical centers to develop machine learning models for predicting postoperative delirium (POD). Using demographic, clinical, surgical, and neuropsychological features, the models achieved strong predictive performance (AUC 0.79) before surgery, with specific cognitive tests like the Montreal Cognitive Assessment memory subdomain and Trail Making Test Part B emerging as crucial predictors. The findings demonstrate that effective POD risk prediction is possible before surgery, potentially enabling better surgical planning and postoperative care for high-risk patients.</p>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="/images/hippocampus_normative_thumb.png" alt="Hippocampus Normative Charting Paper Thumbnail">
+  </div>
+  <div class="publication-content">
+    <h2>Lamellar Normative Charting of the Hippocampus Across the Lifespan</h2>
+    <p>Yanwu Yang, Na Gao, <strong>Nitin Sharma</strong>, Sicheng Dai, Guinan Su, Richard Dinga, Pierluigi Salvo Rossi, Zhiyuan Liu, Tengfei Guo, Thomas Wolfers, the Alzheimer's Disease Neuroimaging Initiative</p>
+    <p><em>Submitted to Nature Communications</em>, 2026</p>
+    <p>This work establishes the first large-scale normative charting framework for hippocampal geometry that resolves lamellar morphology across the lifespan, mapping trajectories for over 26,000 individuals from 165 scanning sites. Hippocampal geometry shows spatially non-uniform developmental and ageing patterns, with lamellar thickness, width, and length following dissociable trajectories. Applied to multiple brain disorders, the framework uncovers a dichotomy in disease-associated patterns: neurodegenerative conditions and schizophrenia show predominant atrophy, while other disorders exhibit focal or selective hypertrophy—revealing localized alterations beyond conventional subfield-level summaries. Transfer to a longitudinal Alzheimer's Disease Neuroimaging Initiative cohort further supports individual-level tracking and disease conversion risk stratification.</p>
   </div>
 </div>
 
