@@ -17,7 +17,7 @@ Throughout my Master's, I contributed to collaborative research at the [Mental H
 
 ## 🧪 What Drives My Research
 
-Since April 2025, I have been working as a Research Assistant at the University of Tübingen under [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldız](https://cagatayyildiz.github.io/), pursuing a question that has fascinated me since my Master's thesis: **How do language models internally organize and access knowledge?**
+Since April 2025, I have been working as a Research Associate at the University of Tübingen under [Dr. Thomas Wolfers](https://thomaswolfers.com/) and [Dr. Çağatay Yıldız](https://cagatayyildiz.github.io/), pursuing a question that has fascinated me since my Master's thesis: **How do language models internally organize and access knowledge?**
 
 My work bridges two complementary perspectives on this question. On one side, I'm developing methods to systematically measure and evaluate what models know—moving beyond surface-level metrics to understand genuine domain expertise. On the other, I'm investigating the internal mechanisms that make this knowledge accessible, exploring whether we can directly steer model behavior by manipulating their internal representations rather than through traditional fine-tuning.
 
